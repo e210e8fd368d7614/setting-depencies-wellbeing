@@ -49,3 +49,9 @@ Readme для каждой операционки свой
 
 Далее: на хостинге, логинимся под именем пользователя, созданного ранее и выполняем клонирование своего репозитория с гитхаба
 
+# Установка nodejs и npm
+
+**Using Debian, as root**
+`sudo mc`
+`curl -sL https://deb.nodesource.com/setup_12.x | bash -`
+`apt-get install -y nodejs`
