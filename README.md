@@ -2,10 +2,10 @@
 
 **for operating systems used in the project**
 
-See readme for your system
+See readme for your operation system
 
 # Настройки и зависимости
 
 **для операционных систем использующихся в проекте**
 
-Readme для каждой свое
+Readme для каждой операционки свое
