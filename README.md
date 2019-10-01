@@ -52,6 +52,9 @@ Readme для каждой операционки свой
 # Установка nodejs и npm
 
 **Using Debian, as root**
+
 `sudo mc`
+
 `curl -sL https://deb.nodesource.com/setup_12.x | bash -`
+
 `apt-get install -y nodejs`
