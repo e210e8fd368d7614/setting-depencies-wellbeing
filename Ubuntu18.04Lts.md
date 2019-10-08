@@ -1,4 +1,4 @@
-# Ubuntu 18.04 Lts
+# Ubuntu 16.04 Lts, Ubuntu 18.04 Lts
 
 # Русификация консоли
 
